@@ -45,5 +45,9 @@ vsce publish
 
 *update readme.md file othre than default
 
+this is a test readme
+
+no need to install
+
 
 
