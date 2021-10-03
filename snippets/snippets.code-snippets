@@ -1,0 +1,11 @@
+{
+    "test filterall": {        
+        "prefix": ["fiter", "tfilter","sfilter"],
+        "body": [
+            "/srv/service/filter/get/filters-variants-brands-categories-price-models-suppliers?link=kisisel-bakim"
+        ],
+        "description": "test brands  filter v4"
+    },
+
+
+}

@@ -1,0 +1,25 @@
+{
+    "name": "test-soft-service",
+    "displayName": "test-soft-service",
+    "description": "service extention for soft",
+    "version": "1.0.0",
+    "publisher":"test-soft-service",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gitorhub/test-soft-service.git"
+      },
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "smarty",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
