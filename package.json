@@ -1,13 +1,13 @@
 {
     "name": "test-soft-service",
-    "displayName": "test-soft-service",
+    "displayName": "TEST SOFT SERVICE",
     "description": "service extention for soft",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "icon.png",
     "publisher":"test-soft-service",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gitorhub/test-soft-service.git"
+        "url": "https://github.com/gitorhub/test-snippet.git"
       },
     "engines": {
         "vscode": "^1.60.0"
