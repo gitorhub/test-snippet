@@ -25,6 +25,8 @@ cd myExtension
 
 vsce login <publisher name>
 
+vsce package
+
 vsce publish
 
 
@@ -38,7 +40,7 @@ vsce publish
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gitorhub/YOURREPONAME.git"
+        "url": "https://github.com/ACCOUNTNAME/YOURREPONAME.git"
       },
 
 ```
@@ -54,5 +56,6 @@ ___
 icon added
 ___
 
+TESTERE
 
 
