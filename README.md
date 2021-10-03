@@ -34,7 +34,7 @@ vsce publish
 # should add 
 
 ```JSON
-
+    "publisher":"PUBLISHERNAME",
     "icon": "icon.png",
     "repository": {
         "type": "git",
@@ -46,10 +46,13 @@ vsce publish
 *update readme.md file othre than default
 
 this is a test readme
+___
 
 no need to install
+___
 
 icon added
+___
 
 
 
