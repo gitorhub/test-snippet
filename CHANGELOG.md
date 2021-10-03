@@ -4,6 +4,9 @@ All notable changes to the "test-soft-service" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.3]
+
+- smarty changed to tpl again
 ## [1.0.2]
 
 - smarty changed to tpl

@@ -2,7 +2,7 @@
     "name": "test-soft-service",
     "displayName": "TEST SOFT SERVICE",
     "description": "service extention for soft",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher":"test-soft-service",
     "repository": {
         "type": "git",
