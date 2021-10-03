@@ -3,6 +3,7 @@
     "displayName": "test-soft-service",
     "description": "service extention for soft",
     "version": "1.0.0",
+    "icon": "icon.png",
     "publisher":"test-soft-service",
     "repository": {
         "type": "git",
