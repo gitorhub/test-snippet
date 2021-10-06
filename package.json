@@ -2,7 +2,7 @@
     "name": "test-soft-service",
     "displayName": "TEST SOFT SERVICE",
     "description": "service extention for soft",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "publisher":"test-soft-service",
     "repository": {
         "type": "git",
@@ -18,6 +18,18 @@
         "snippets": [
             {
                 "language": "tpl",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": ".tpl",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "smarty",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]

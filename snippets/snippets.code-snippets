@@ -1,6 +1,6 @@
 {
     "test filterall": {        
-        "prefix": ["fiter", "tfilter","sfilter"],
+        "prefix": ["filter", "tfilter","sfilter"],
         "body": [
             "/srv/service/filter/get/filters-variants-brands-categories-price-models-suppliers?link=kisisel-bakim"
         ],
